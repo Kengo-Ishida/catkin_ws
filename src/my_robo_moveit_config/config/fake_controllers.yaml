@@ -1,0 +1,15 @@
+controller_list:
+  - name: fake_Center_controller
+    joints:
+      - Link1_2_Link2
+      - Link2_2_Link3
+      - Link3_2_Link4
+      - Link4_2_Link5
+  - name: fake_Left_controller
+    joints:
+      - Link1_2_Link2
+      - LLink1_2_LLink2
+  - name: fake_Right_controller
+    joints:
+      - Link1_2_Link2
+      - RLink1_2_RLink2

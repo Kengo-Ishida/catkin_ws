@@ -1,0 +1,8 @@
+prefix=/home/rsdlab/catkin_ws/install
+
+Name: 3dofarm
+Description: Description of 3dofarm
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rsdlab/catkin_ws/install/lib 
+Requires: 

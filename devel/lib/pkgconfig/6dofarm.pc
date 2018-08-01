@@ -1,0 +1,8 @@
+prefix=/home/rsdlab/catkin_ws/devel
+
+Name: 6dofarm
+Description: Description of 6dofarm
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rsdlab/catkin_ws/devel/lib 
+Requires: 

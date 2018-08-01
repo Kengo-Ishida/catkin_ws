@@ -1,0 +1,8 @@
+prefix=/home/rsdlab/catkin_ws/devel
+
+Name: 6dofarm_gazebo
+Description: Description of 6dofarm_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rsdlab/catkin_ws/devel/lib 
+Requires: 

@@ -1,0 +1,2 @@
+3dofarm:6dofarm:6dofarm_control:6dofarm_gazebo:6dofarm_moveit_config:my_robo:my_robo_moveit_config
+-DCATKIN_DEVEL_PREFIX=/home/rsdlab/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/rsdlab/catkin_ws/install -G Unix Makefiles

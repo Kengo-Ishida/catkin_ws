@@ -1,0 +1,8 @@
+prefix=/home/rsdlab/catkin_ws/devel
+
+Name: 6dofarm_moveit_config
+Description: Description of 6dofarm_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/rsdlab/catkin_ws/devel/lib 
+Requires: 
